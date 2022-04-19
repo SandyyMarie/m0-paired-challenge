@@ -4,3 +4,5 @@ book = "Harry Potter"
 books_read = 10
 checked_out = true
 author = "JK Rowling"
+
+authors = ["JKR", "JRR Tolkien", "GRRM"]
